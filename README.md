@@ -28,16 +28,6 @@ A **Data Science Academy** é a maior plataforma de ensino online de Ciência de
 O **Objetivo** é promover treinamento de alto nível e qualificação profissional com conteúdo 100% em português, integrando metodologia de aprendizagem e tecnologia.
 
 
-## Descrição
-
-Este curso irá apresentar a você, os conceitos básicos e fundamentos da linguagem de programação Python. Através de uma experiência prática, com exemplos, quizzes, exercícios e projetos, será possível testar seus conhecimentos e aplicá-los em projetos de Data Science.
-
-## Pré-requisitos
-
-Não há pré-requisito para este curso, mas recomendamos que antes estude os cursos Introdução à Ciência de Dados 2.0 e Big Data Fundamentos 2.0, aqui na Data Science Academy. Também recomendamos que o aluno tenha noções básicas de computador, como criar pastas e arquivos.
-
-
-
 ## Data Science Academy - Cursos: :cloud:
 
 - Big Data Fundamentos 2.0
@@ -61,6 +51,18 @@ Não há pré-requisito para este curso, mas recomendamos que antes estude os cu
 ### Python - Fundamentos para Análise de Dados
 
 Python é uma linguagem de programação de uso geral, mas que tem liderado as iniciativas de Análise de Dados por diversos motivos: é fácil de aprender e poderosa, pode ser usada em diversas plataformas, possui uma comunidade ativa, diversas bibliotecas e módulos prontos para uso e, além de tudo, é totalmente gratuita.
+
+
+## Descrição
+
+Este curso irá apresentar a você, os conceitos básicos e fundamentos da linguagem de programação Python. 
+Através de uma experiência prática, com exemplos, quizzes, exercícios e projetos, será possível testar seus conhecimentos e aplicá-los em projetos de Data Science.
+
+
+## Pré-requisitos
+
+Não há pré-requisito para este curso, mas recomendamos que antes estude os cursos Introdução à Ciência de Dados 2.0 e Big Data Fundamentos 2.0, aqui na Data Science Academy. 
+
 
 ### Instrutor Daniel Mendes
 
@@ -99,7 +101,6 @@ Python é uma linguagem de programação de uso geral, mas que tem liderado as i
 O curso de **Introdução à Ciência de Dados** abrange conceitos e definições sobre os motivos da alta demanda sobre a profissão de Cientista de Dados em todo o mundo. 
 
 São abordados tópicos sobre a relação entre Ciência de Dados e Big Data, os principais conceitos ligados a Data Science e as profissões relacionadas.
-
 
 
 ### Tópicos :fire:
