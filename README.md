@@ -92,9 +92,9 @@ Não há pré-requisito para este curso, mas recomendamos que antes estude os cu
 - 09 - CAP 09 - Introdução à Análise de Dados com Python [:x:]
 - 10 - CAP 10 - Introdução ao TensorFlow [:x:]
 - 11 - CAP 11 - Introdução a Machine Learning com Python [:x:]
-- 12 - CAP 12 - Bônus - Introdução a Depp Learning [:x:]
+- 12 - CAP 12 - Bônus - Introdução a Deep Learning [:x:]
 - 13 - CAP 13 - Desenvolvimento Web [:x:]
-- 14 - CAP 14 - Introdução ao Web Scaping [:x:]
+- 14 - CAP 14 - Introdução ao Web Scraping [:x:]
 - 15 - CAP 15 - Avaliação e Certificado de Conclusão [:x:]
 
 ---
