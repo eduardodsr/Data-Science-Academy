@@ -28,6 +28,18 @@ A **Data Science Academy** é a maior plataforma de ensino online de Ciência de
 O **Objetivo** é promover treinamento de alto nível e qualificação profissional com conteúdo 100% em português, integrando metodologia de aprendizagem e tecnologia.
 
 
+## Descrição
+
+Este curso irá apresentar a você, os conceitos básicos e fundamentos da linguagem de programação Python. Através de uma experiência prática, com exemplos, quizzes, exercícios e projetos, será possível testar seus conhecimentos e aplicá-los em projetos de Data Science.
+
+## Pré-requisitos
+
+Não há pré-requisito para este curso, mas recomendamos que antes estude os cursos Introdução à Ciência de Dados 2.0 e Big Data Fundamentos 2.0, aqui na Data Science Academy. Também recomendamos que o aluno tenha noções básicas de computador, como criar pastas e arquivos.
+
+
+
+
+
 ## Data Science Academy - Cursos: :cloud:
 
 - Big Data Fundamentos 2.0
@@ -57,20 +69,23 @@ Python é uma linguagem de programação de uso geral, mas que tem liderado as i
 - Carga horária: 54 horas
 
 
-### Tópicos :fire:
+### Tópicos | Check ( [✔️] | [:x:] ) :fire:
 
-- 1 - Introdução  [✔️]
-- 2 - Tipos e Estruturas de Dados [✔️]
-- 3 - Loops e Condicionais [:x:]
-- 4 - Métodos e Funções [:x:]
-- 5 - Orientação a Objetos [:x:]
-- 6 - Banco de Dados [:x:]
-- 7 - Módulos, Pacotes e Funções Built-In [:x:]
-- 8 - Módulos Python para Análise de Dados [:x:]
-- 9 - Introdução à Análise de Dados [:x:]
-- 10 - Projetos de Análise de Dados [:x:]
-- 11 - Módulos Avançados [:x:]
-- 12 - Avaliação e Certificado de Conclusão [:x:]
+- 01 - CAP 01 - Introdução  [✔️]
+- 02 - CAP 02 - Tipos, Tipos e Estruturas de Dados [:x:]
+- 03 - CAP 03 - Loops, Condicionais, Métodos, Funções, Módulos e Pacotes [:x:]
+- 04 - CAP 04 - Tratamentos de Arquivos [:x:]
+- 05 - CAP 05 - rientação a Objetos [:x:]
+- 06 - CAP 06 - Banco de Dados [:x:]
+- 07 - CAP 07 - Desafio DSA [:x:]
+- 08 - CAP 08 - Módulos Python para Análise de Dados [:x:]
+- 09 - CAP 09 - Introdução à Análise de Dados com Python [:x:]
+- 10 - CAP 10 - Introdução ao TensorFlow [:x:]
+- 11 - CAP 11 - Introdução a Machine Learning com Python [:x:]
+- 12 - CAP 12 - Bônus - Introdução a Depp Learning [:x:]
+- 13 - CAP 13 - Desenvolvimento Web [:x:]
+- 14 - CAP 14 - Introdução ao Web Scaping [:x:]
+- 15 - CAP 15 - Avaliação e Certificado de Conclusão [:x:]
 
 ---
 
@@ -79,6 +94,11 @@ Python é uma linguagem de programação de uso geral, mas que tem liderado as i
 O curso de **Introdução à Ciência de Dados** abrange conceitos e definições sobre os motivos da alta demanda sobre a profissão de Cientista de Dados em todo o mundo. 
 
 São abordados tópicos sobre a relação entre Ciência de Dados e Big Data, os principais conceitos ligados a Data Science e as profissões relacionadas.
+
+### Instrutor Daniel Mendes
+
+- Prof. Daniel Mendes (danielm@dsacademy.com.br)
+
 
 ### Tópicos :fire:
 
