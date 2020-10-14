@@ -6,6 +6,9 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/Data-Science-Academy)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Data-Science-Academy)
 
+ <p align="center">
+  <img src=https://i.imgur.com/bgjb8pD.png?raw=true" alt="imagem" width="600px" />
+ </p>
 
 ## Data Science Academy  📊 
 
