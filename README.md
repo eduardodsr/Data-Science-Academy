@@ -79,9 +79,7 @@ Não há pré-requisito para este curso, mas recomendamos que antes estude os cu
 - Carga horária: 54 horas
 
 
-### Tópicos | :fire:
-
-Check ( [✔️] | [:x:] ) 
+### Tópicos  :fire:
 
 - 01 - CAP 01 - Introdução  [✔️]
 - 02 - CAP 02 - Tipos, Tipos e Estruturas de Dados [:x:]
