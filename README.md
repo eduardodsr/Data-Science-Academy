@@ -63,36 +63,18 @@ Como estamos vivendo na era do Big Data, a Ciência de Dados está se tornando u
 
 O curso de Introdução à Ciência de Dados abrange conceitos e definições sobre os motivos da alta demanda sobre a profissão de Cientista de Dados em todo o mundo. São abordados tópicos sobre a relação entre Ciência de Dados e Big Data, os principais conceitos ligados a Data Science e as profissões relacionadas.
 
-- 1 - Introdução
-- 2 - O que é Ciência de Dados
-- 3 - Ciência de Dados e Big Data
-- 4 - Ciência de Dados e Estatística
-- 5 - Aprendizado de Máquina (Machine Learning)
-- 6 - Aplicações de Ciência de Dados
-- 7 - Ciclo de Vida de Projetos de Data Science
-- 8 - Carreiras em Data Science
-- 9 - Como se tornar um Cientista de Dados
-- 10 - Avaliação e Certificado de Conclusão
+- 1 - Introdução :check: 
+- 2 - O que é Ciência de Dados :check: 
+- 3 - Ciência de Dados e Big Data :x:
+- 4 - Ciência de Dados e Estatística :x:
+- 5 - Aprendizado de Máquina (Machine Learning) :x:
+- 6 - Aplicações de Ciência de Dados :x:
+- 7 - Ciclo de Vida de Projetos de Data Science :x:
+- 8 - Carreiras em Data Science :x:
+- 9 - Como se tornar um Cientista de Dados :x:
+- 10 - Avaliação e Certificado de Conclusão :x:
 
 ---
-
-### Big Data Fundamentos 2.0
-
-Big Data é o responsável por algumas das transformações do mundo atual e, ao ser analisado, permite a descoberta de relacionamentos entre informações que, de outra forma, não seriam tão naturais. Este curso oferece uma introdução detalhada dos principais conceitos envolvendo Big Data, permitindo uma compreensão clara do que há de mais avançado em tecnologia de engenharia de dados e preparando o aluno para os demais cursos aqui na DSA.
-
-Uma das funções principais de um Cientista de Dados é analisar a massa de dados para fazer inferências. O dado é a matéria prima do Cientista de Dados. Big Data é o novo petróleo, um novo asset corporativo que está revolucionando o mundo. Saber coletar, armazenar, tratar, analisar e disponibilizar estes dados é um desafio e o mercado está em busca de profissionais com este perfil.
-
-- 1 - Introdução
-- 2 - O que é Big Data?
-- 3 - Introdução ao Hadoop
-- 4 - Arquiterura Hadoop
-- 5 - Ecossistema Hadoop
-- 6 - Soluções Comerciais com Hadoop
-- 7 - Introdução ao Apache Spark
-- 8 - Bancos de Dados NoSQL
-- 9 - Como Iniciar um Projeto de Big Data?
-- 10 - Avaliação e Certificado de Conclusão
-
 
 
 ### CONTATO:
