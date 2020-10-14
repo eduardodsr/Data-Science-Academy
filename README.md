@@ -53,13 +53,13 @@ O **Objetivo** é promover treinamento de alto nível e qualificação profissio
 Python é uma linguagem de programação de uso geral, mas que tem liderado as iniciativas de Análise de Dados por diversos motivos: é fácil de aprender e poderosa, pode ser usada em diversas plataformas, possui uma comunidade ativa, diversas bibliotecas e módulos prontos para uso e, além de tudo, é totalmente gratuita.
 
 
-## Descrição
+### Descrição
 
 Este curso irá apresentar a você, os conceitos básicos e fundamentos da linguagem de programação Python. 
 Através de uma experiência prática, com exemplos, quizzes, exercícios e projetos, será possível testar seus conhecimentos e aplicá-los em projetos de Data Science.
 
 
-## Pré-requisitos
+### Pré-requisitos
 
 Não há pré-requisito para este curso, mas recomendamos que antes estude os cursos Introdução à Ciência de Dados 2.0 e Big Data Fundamentos 2.0, aqui na Data Science Academy. 
 
