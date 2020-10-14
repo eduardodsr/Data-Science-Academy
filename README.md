@@ -7,14 +7,14 @@
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Data-Science-Academy)
 
  <p align="center">
+  <img src=https://i.imgur.com/YFq4p5O.png?raw=true" alt="imagem" width="800px" />
+ </p>
+ <p align="center">
   <img src=https://i.imgur.com/bgjb8pD.png?raw=true" alt="imagem" width="800px" />
  </p>
 
 ## Data Science Academy  📊 
 
- <p align="center">
-  <img src=https://i.imgur.com/YFq4p5O.png?raw=true" alt="imagem" width="400px" />
- </p>
 
 
 
