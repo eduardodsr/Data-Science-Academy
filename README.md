@@ -6,6 +6,17 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/Data-Science-Academy)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Data-Science-Academy)
 
+
+## Data Science Academy
+
+A <a href="https://www.datascienceacademy.com.br/pages/home">Data Science Academy</a> é um portal de ensino online em Data Science, Machine Learning, Big Data, Inteligência Artificial e outros conceitos relacionados.
+
+Com cursos totalmente práticos, é possível manipular ocnjuntos de dados com as principais ferramentas analíticas usadas por Cientistas de Dados, tais como linguagens R e Python, Microsoft Azure Machine Learning, Apache Spark, Hadoop, Tableau, D3.js e muito mais. Os conceitos são explicados e, na sequência, aplicados através de conjuntos de dados reais. 
+
+Com isso, é possível compreender como funciona todo o processo de análise de Big Data, desde a definição do problema de negócio, até a apresentação da solução. 
+
+Este repositório tem por objetivo alocar informações sobre os cursos realizados na plataforma DSA.
+
 A **Data Science Academy** é a maior plataforma de ensino online de Ciência de Dados, Big Data, Inteligência Artificial e Blockchain da América Latina. 
 
 O **Objetivo** é promover treinamento de alto nível e qualificação profissional com conteúdo 100% em português, integrando metodologia de aprendizagem e tecnologia.
@@ -25,52 +36,9 @@ O **Objetivo** é promover treinamento de alto nível e qualificação profissio
 ``` link: ``` https://www.datascienceacademy.com.br/pages/cursos-gratuitos-1
 
 
-# Data Science Academy
+## Informação sobre os Cursos
 
-A <a href="https://www.datascienceacademy.com.br/pages/home">Data Science Academy</a> é um portal de ensino online em Data Science, Machine Learning, Big Data, Inteligência Artificial e outros conceitos relacionados.
-
-Com cursos totalmente práticos, é possível manipular ocnjuntos de dados com as principais ferramentas analíticas usadas por Cientistas de Dados, tais como linguagens R e Python, Microsoft Azure Machine Learning, Apache Spark, Hadoop, Tableau, D3.js e muito mais. Os conceitos são explicados e, na sequência, aplicados através de conjuntos de dados reais. 
-
-Com isso, é possível compreender como funciona todo o processo de análise de Big Data, desde a definição do problema de negócio, até a apresentação da solução. 
-
-Este repositório tem por objetivo alocar informações sobre os cursos realizados na plataforma DSA.
-
-# Cursos
-
-<table>
-<tr>
-<th>Curso</th>
-<th>Status</th>
-<th>Ano</th>
-<th>Link de Acesso</th>
-</tr>
-
-<tr>
-<td>Python - Fundamentos para Análise de Dados</td>
-<td>Cursando</td>
-<td>2018</td>
-<td><a href="https://www.datascienceacademy.com.br/pages/curso-python-fundamentos-para-analise-de-dados">PythonFundamentos</a></td>
-</tr>
-
-<tr>
-<td>Introdução à Ciência de Dados 2.0</td>
-<td>Finalizado (<a href="https://github.com/ThiagoPanini/data-science-courses/blob/master/data-science-academy/introducao-ciencia-de-dados/certificate-introducao-a-ciencia-de-dados-20.pdf">Certificado</a>)</td>
-<td>2018</td>
-<td><a href="https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados">IntroCienciaDados</a></td>
-</tr>
-
-<tr>
-<td>Big Data Fundamentos 2.0</td>
-<td>Finalizado (<a href="https://github.com/ThiagoPanini/data-science-courses/blob/master/data-science-academy/big-data-fundamentos/certificate-big-data-fundamentos-20.pdf">Certificado</a>)</td>
-<td>2018</td>
-<td><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">BigDataFundamentos</a></td>
-</tr>
-
-</table>
-
-# Detalhes
-
-## Python - Fundamentos para Análise de Dados
+### Python - Fundamentos para Análise de Dados
 
 Python é uma linguagem de programação de uso geral, mas que tem liderado as iniciativas de Análise de Dados por diversos motivos: é fácil de aprender e poderosa, pode ser usada em diversas plataformas, possui uma comunidade ativa, diversas bibliotecas e módulos prontos para uso e, além de tudo, é totalmente gratuita.
 
@@ -89,7 +57,7 @@ Python é uma linguagem de programação de uso geral, mas que tem liderado as i
 
 ---
 
-## Introdução à Ciência de Dados 2.0
+### Introdução à Ciência de Dados 2.0
 
 Como estamos vivendo na era do Big Data, a Ciência de Dados está se tornando um campo muito promissor para explorar e processar grandes volumes de dados, gerados a partir de várias fontes e em diferentes velocidades.
 
@@ -108,7 +76,7 @@ O curso de Introdução à Ciência de Dados abrange conceitos e definições so
 
 ---
 
-## Big Data Fundamentos 2.0
+### Big Data Fundamentos 2.0
 
 Big Data é o responsável por algumas das transformações do mundo atual e, ao ser analisado, permite a descoberta de relacionamentos entre informações que, de outra forma, não seriam tão naturais. Este curso oferece uma introdução detalhada dos principais conceitos envolvendo Big Data, permitindo uma compreensão clara do que há de mais avançado em tecnologia de engenharia de dados e preparando o aluno para os demais cursos aqui na DSA.
 
