@@ -38,8 +38,6 @@ Não há pré-requisito para este curso, mas recomendamos que antes estude os cu
 
 
 
-
-
 ## Data Science Academy - Cursos: :cloud:
 
 - Big Data Fundamentos 2.0
@@ -53,6 +51,11 @@ Não há pré-requisito para este curso, mas recomendamos que antes estude os cu
 - Python Fundamentos para Análise de Dados
 
 ``` link: ``` https://www.datascienceacademy.com.br/pages/cursos-gratuitos-1
+
+
+ <p align="center">
+  <img src=https://i.imgur.com/rSePGOO.png?raw=true" alt="imagem" width="800px" />
+ </p>
 
 
 ## Informação sobre os Cursos :cloud: 
