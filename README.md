@@ -62,6 +62,10 @@ Não há pré-requisito para este curso, mas recomendamos que antes estude os cu
 
 Python é uma linguagem de programação de uso geral, mas que tem liderado as iniciativas de Análise de Dados por diversos motivos: é fácil de aprender e poderosa, pode ser usada em diversas plataformas, possui uma comunidade ativa, diversas bibliotecas e módulos prontos para uso e, além de tudo, é totalmente gratuita.
 
+### Instrutor Daniel Mendes
+
+- Prof. Daniel Mendes (danielm@dsacademy.com.br)
+
 
 ### Cronograma: :calendar:
 
@@ -96,9 +100,6 @@ O curso de **Introdução à Ciência de Dados** abrange conceitos e definiçõe
 
 São abordados tópicos sobre a relação entre Ciência de Dados e Big Data, os principais conceitos ligados a Data Science e as profissões relacionadas.
 
-### Instrutor Daniel Mendes
-
-- Prof. Daniel Mendes (danielm@dsacademy.com.br)
 
 
 ### Tópicos :fire:
