@@ -31,7 +31,7 @@ A **Data Science Academy** é a maior plataforma de ensino online de Ciência de
 O **Objetivo** é promover treinamento de alto nível e qualificação profissional com conteúdo 100% em português, integrando metodologia de aprendizagem e tecnologia.
 
 
-## Data Science Academy - Cursos:
+## :cloud: Data Science Academy - Cursos: :cloud:
 
 - Big Data Fundamentos 2.0
 
@@ -53,7 +53,7 @@ O **Objetivo** é promover treinamento de alto nível e qualificação profissio
 Python é uma linguagem de programação de uso geral, mas que tem liderado as iniciativas de Análise de Dados por diversos motivos: é fácil de aprender e poderosa, pode ser usada em diversas plataformas, possui uma comunidade ativa, diversas bibliotecas e módulos prontos para uso e, além de tudo, é totalmente gratuita.
 
 
-## Cronograma: :calendar:
+### Cronograma: :calendar:
 
 - Data de início: 14/10/2020
 
