@@ -52,6 +52,14 @@ O **Objetivo** é promover treinamento de alto nível e qualificação profissio
 
 Python é uma linguagem de programação de uso geral, mas que tem liderado as iniciativas de Análise de Dados por diversos motivos: é fácil de aprender e poderosa, pode ser usada em diversas plataformas, possui uma comunidade ativa, diversas bibliotecas e módulos prontos para uso e, além de tudo, é totalmente gratuita.
 
+
+## Cronograma: :calendar:
+
+- Data de início: 14/09/20
+
+- Carga horária: 54 horas
+
+
 ### Tópicos :fire:
 
 - 1 - Introdução  [✔️]
