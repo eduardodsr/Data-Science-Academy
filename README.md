@@ -55,7 +55,7 @@ Python é uma linguagem de programação de uso geral, mas que tem liderado as i
 
 ## Cronograma: :calendar:
 
-- Data de início: 14/09/20
+- Data de início: 14/10/2020
 
 - Carga horária: 54 horas
 
