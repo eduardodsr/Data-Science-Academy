@@ -17,6 +17,12 @@ Com isso, é possível compreender como funciona todo o processo de análise de 
 
 Este repositório tem por objetivo alocar informações sobre os cursos realizados na plataforma DSA.
 
+A Data Science Academy é um plataforma brasileira voltada para o ensino de Ciência de Dados, Big Data e outras áreas do conhecimento relacionadas. 
+
+Eles dispõem de uma vasta gama de cursos online, tanto gratuitos quanto pagos.
+
+Com relação à Ciência de Dados, a plataforma oferece um excelente curso gratuito chamado “Python Fundamentos para Análise de Dados“, com uma carga-horária total de 54 horas. Nesse curso você construirá, inicialmente, uma base sólida da linguagem Python. Assuntos como estruturas de dados, básicas, laços, Programação Orientada a Objetos, tratamento de arquivos e manipulação de banco de dados serão abordados. Em seguida, ferramentas da linguagem voltada para análise de dados são apresentadas, como o pacote Numpy e a biblioteca Pandas. A parte dedicada à Data Science mostra como realizar a análise exploratória dos dados e como conduzir um projeto de Ciência de Dados na prática. Além disso, o curso aborda conceitos de Machine Learning com Python, Deep Learning e a biblioteca TensorFlow . Como bônus no final do curso, uma introdução ao desenvolvimento web com Python é apresentada.
+
 
 ## Objetivo 🎯
 
