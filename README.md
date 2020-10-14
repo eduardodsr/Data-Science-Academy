@@ -27,8 +27,6 @@ O **Objetivo** é promover treinamento de alto nível e qualificação profissio
 
 # Data Science Academy
 
-<a href="http://pt-br.tinypic.com?ref=2cpalwz" target="_blank"><img src="http://i68.tinypic.com/2cpalwz.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
-
 A <a href="https://www.datascienceacademy.com.br/pages/home">Data Science Academy</a> é um portal de ensino online em Data Science, Machine Learning, Big Data, Inteligência Artificial e outros conceitos relacionados.
 
 Com cursos totalmente práticos, é possível manipular ocnjuntos de dados com as principais ferramentas analíticas usadas por Cientistas de Dados, tais como linguagens R e Python, Microsoft Azure Machine Learning, Apache Spark, Hadoop, Tableau, D3.js e muito mais. Os conceitos são explicados e, na sequência, aplicados através de conjuntos de dados reais. 
