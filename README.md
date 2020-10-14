@@ -7,7 +7,7 @@
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Data-Science-Academy)
 
 
-## Data Science Academy
+## Data Science Academy  📊 
 
 A <a href="https://www.datascienceacademy.com.br/pages/home">Data Science Academy</a> é um portal de ensino online em Data Science, Machine Learning, Big Data, Inteligência Artificial e outros conceitos relacionados.
 
@@ -17,11 +17,15 @@ Com isso, é possível compreender como funciona todo o processo de análise de 
 
 Este repositório tem por objetivo alocar informações sobre os cursos realizados na plataforma DSA.
 
+
+## Objetivo 🎯
+
 A **Data Science Academy** é a maior plataforma de ensino online de Ciência de Dados, Big Data, Inteligência Artificial e Blockchain da América Latina. 
 
 O **Objetivo** é promover treinamento de alto nível e qualificação profissional com conteúdo 100% em português, integrando metodologia de aprendizagem e tecnologia.
 
-## Cursos:
+
+## Data Science Academy - Cursos:
 
 - Big Data Fundamentos 2.0
 
@@ -42,44 +46,56 @@ O **Objetivo** é promover treinamento de alto nível e qualificação profissio
 
 Python é uma linguagem de programação de uso geral, mas que tem liderado as iniciativas de Análise de Dados por diversos motivos: é fácil de aprender e poderosa, pode ser usada em diversas plataformas, possui uma comunidade ativa, diversas bibliotecas e módulos prontos para uso e, além de tudo, é totalmente gratuita.
 
-- 1 - Introdução
-- 2 - Tipos e Estruturas de Dados
-- 3 - Loops e Condicionais
-- 4 - Métodos e Funções
-- 5 - Orientação a Objetos
-- 6 - Banco de Dados
-- 7 - Módulos, Pacotes e Funções Built-In
-- 8 - Módulos Python para Análise de Dados
-- 9 - Introdução à Análise de Dados
-- 10 - Projetos de Análise de Dados
-- 11 - Módulos Avançados
-- 12 - Avaliação e Certificado de Conclusão
+### Tópicos :fire:
+
+- 1 - Introdução  [✔️]
+- 2 - Tipos e Estruturas de Dados [✔️]
+- 3 - Loops e Condicionais [:x:]
+- 4 - Métodos e Funções [:x:]
+- 5 - Orientação a Objetos [:x:]
+- 6 - Banco de Dados [:x:]
+- 7 - Módulos, Pacotes e Funções Built-In [:x:]
+- 8 - Módulos Python para Análise de Dados [:x:]
+- 9 - Introdução à Análise de Dados [:x:]
+- 10 - Projetos de Análise de Dados [:x:]
+- 11 - Módulos Avançados [:x:]
+- 12 - Avaliação e Certificado de Conclusão [:x:]
 
 ---
 
 ### Introdução à Ciência de Dados 2.0
 
-Como estamos vivendo na era do Big Data, a Ciência de Dados está se tornando um campo muito promissor para explorar e processar grandes volumes de dados, gerados a partir de várias fontes e em diferentes velocidades.
+O curso de **Introdução à Ciência de Dados** abrange conceitos e definições sobre os motivos da alta demanda sobre a profissão de Cientista de Dados em todo o mundo. 
 
-O curso de Introdução à Ciência de Dados abrange conceitos e definições sobre os motivos da alta demanda sobre a profissão de Cientista de Dados em todo o mundo. São abordados tópicos sobre a relação entre Ciência de Dados e Big Data, os principais conceitos ligados a Data Science e as profissões relacionadas.
+São abordados tópicos sobre a relação entre Ciência de Dados e Big Data, os principais conceitos ligados a Data Science e as profissões relacionadas.
 
-- 1 - Introdução :check: 
-- 2 - O que é Ciência de Dados :check: 
-- 3 - Ciência de Dados e Big Data :x:
-- 4 - Ciência de Dados e Estatística :x:
-- 5 - Aprendizado de Máquina (Machine Learning) :x:
-- 6 - Aplicações de Ciência de Dados :x:
-- 7 - Ciclo de Vida de Projetos de Data Science :x:
-- 8 - Carreiras em Data Science :x:
-- 9 - Como se tornar um Cientista de Dados :x:
-- 10 - Avaliação e Certificado de Conclusão :x:
+### Tópicos :fire:
+
+- 1 - Introdução [:x:]
+- 2 - O que é Ciência de Dados [:x:]
+- 3 - Ciência de Dados e Big Data [:x:]
+- 4 - Ciência de Dados e Estatística [:x:]
+- 5 - Aprendizado de Máquina (Machine Learning) [:x:]
+- 6 - Aplicações de Ciência de Dados [:x:]
+- 7 - Ciclo de Vida de Projetos de Data Science [:x:]
+- 8 - Carreiras em Data Science [:x:]
+- 9 - Como se tornar um Cientista de Dados [:x:]
+- 10 - Avaliação e Certificado de Conclusão [:x:]
 
 ---
 
 
-### CONTATO:
+### CONTATO: :mailbox_with_no_mail:
 
-EDUARDO DA SILVA RODRIGUES
-eduardodsr@gmail.com
+### 🐍 DESENVOLVEDOR PYTHON: 🐍
 
-### End
+### :star: EDUARDO DA SILVA RODRIGUES :star:
+
+:point_right: eduardodsr@gmail.com :point_left: 
+
+
+### The End
+
+ <p align="left">
+  <img src=https://i.imgur.com/760Zrb2.gif?raw=true" alt="imagem" width="150px" />                                                                            
+ </p>
