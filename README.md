@@ -8,7 +8,7 @@
 
 A **Data Science Academy** é a maior plataforma de ensino online de Ciência de Dados, Big Data, Inteligência Artificial e Blockchain da América Latina. 
 
-Nosso **objetivo** é promover treinamento de alto nível e qualificação profissional com conteúdo 100% em português, integrando metodologia de aprendizagem e tecnologia.
+O **Objetivo** é promover treinamento de alto nível e qualificação profissional com conteúdo 100% em português, integrando metodologia de aprendizagem e tecnologia.
 
 ## Cursos:
 
@@ -35,7 +35,7 @@ Com cursos totalmente práticos, é possível manipular ocnjuntos de dados com a
 
 Com isso, é possível compreender como funciona todo o processo de análise de Big Data, desde a definição do problema de negócio, até a apresentação da solução. 
 
-Este repositóri tem por objetivo alocar informações sobre os cursos realizados na plataforma DSA.
+Este repositório tem por objetivo alocar informações sobre os cursos realizados na plataforma DSA.
 
 # Cursos
 
