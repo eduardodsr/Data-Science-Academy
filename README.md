@@ -85,7 +85,7 @@ Não há pré-requisito para este curso, mas recomendamos que antes estude os cu
 - 02 - CAP 02 - Tipos, Tipos e Estruturas de Dados [:x:]
 - 03 - CAP 03 - Loops, Condicionais, Métodos, Funções, Módulos e Pacotes [:x:]
 - 04 - CAP 04 - Tratamentos de Arquivos [:x:]
-- 05 - CAP 05 - rientação a Objetos [:x:]
+- 05 - CAP 05 - Orientação a Objetos [:x:]
 - 06 - CAP 06 - Banco de Dados [:x:]
 - 07 - CAP 07 - Desafio DSA [:x:]
 - 08 - CAP 08 - Módulos Python para Análise de Dados [:x:]
