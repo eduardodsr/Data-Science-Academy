@@ -12,6 +12,12 @@
 
 ## Data Science Academy  📊 
 
+ <p align="center">
+  <img src=https://i.imgur.com/YFq4p5O.png?raw=true" alt="imagem" width="400px" />
+ </p>
+
+
+
 A <a href="https://www.datascienceacademy.com.br/pages/home">Data Science Academy</a> é um portal de ensino online em Data Science, Machine Learning, Big Data, Inteligência Artificial e outros conceitos relacionados.
 
 Este repositório tem por objetivo de apresentar o meu desenvolvimento sobre os cursos realizados na plataforma **Data Science Academy**.
